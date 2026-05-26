@@ -1,0 +1,17 @@
+src/
+ ├── model/
+ │    ├── Projeto.java
+ │    ├── Tarefa.java
+ │    ├── Colaborador.java
+ │    └── StatusTarefa.java
+ │
+ ├── controller/
+ │    ├── ProjetoController.java
+ │    ├── TarefaController.java
+ │    └── ColaboradorController.java
+ │
+ ├── view/
+ │    └── MenuView.java
+ │
+ └── main/
+      └── Main.java
